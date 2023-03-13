@@ -17,5 +17,5 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=85c6ea)
 ![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgresql&logoColor=699eca)
 ![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=f14e32)
-![ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=e95420)  
-![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=0073ec)  
+![ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=e95420)
+![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=0073ec)
