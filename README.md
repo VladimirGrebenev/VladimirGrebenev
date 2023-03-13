@@ -15,5 +15,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=7da1ff)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=85c6ea)
-![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=Postgres&logoColor=699eca)
+![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgresql&logoColor=699eca)
 
