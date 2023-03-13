@@ -11,7 +11,7 @@
 [![headhunter](https://img.shields.io/badge/-headhunter-090909?style=for-the-badge&logo=HellyHansen&logoColor=d50a23)](https://stavropol.hh.ru/resume/c7fea7acff09e39e6d0039ed1f693567424f6b)
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E9D54D)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd343)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
