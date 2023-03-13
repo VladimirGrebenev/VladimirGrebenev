@@ -8,7 +8,7 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Veneberg81)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/grebenevvv)
-[![headhunter](https://img.shields.io/badge/-headhunter-090909?style=for-the-badge&logo=headhunter&logoColor=4F7DB3)](https://stavropol.hh.ru/resume/c7fea7acff09e39e6d0039ed1f693567424f6b)
+[![headhunter](https://img.shields.io/badge/-headhunter-090909?style=for-the-badge&logo=HellyHansen&logoColor=d50a23)](https://stavropol.hh.ru/resume/c7fea7acff09e39e6d0039ed1f693567424f6b)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E9D54D)
