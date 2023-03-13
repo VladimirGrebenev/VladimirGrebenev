@@ -20,5 +20,5 @@
 ![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=f14e32)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=e95420)
 ![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=8ed1fc)
-![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=f60)
-![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=8ed1fc)
+![html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=f60)
+![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=8ed1fc)
