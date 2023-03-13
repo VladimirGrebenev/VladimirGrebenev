@@ -13,5 +13,7 @@
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=7da1ff)
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=85c6ea)
+![Postgres](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=Postgres&logoColor=699eca)
+
