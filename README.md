@@ -28,4 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGrebenev&hide=css,html&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGrebenev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+### Pinned:
+[![flaskBlog](https://github-readme-stats.vercel.app/api/pin/?username=VladimirGrebenev&repo=flaskBlog&show_icons=true&theme=react)](https://github.com/VladimirGrebenev/flaskBlog)
