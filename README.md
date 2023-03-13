@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E9D54D)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flaskw&logoColor=white)
+![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
