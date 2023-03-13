@@ -25,4 +25,6 @@
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=8ed1fc)
 
 ### Stats:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGrebenev)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGrebenev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
