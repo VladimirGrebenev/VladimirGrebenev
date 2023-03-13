@@ -2,7 +2,7 @@
   <a href="https://www.veneberg81.ru/"><img src="https://www.veneberg81.ru/img/logo_veneberg81.png" width="150"/><a/>
 </div>
   
-<p>Hi. My name is Vladimir Grebenev and I am fullstack python developer. My nickname Veneberg81 - This is an anagram of my last name and year of birth.</p>
+<p>Hello, world. My name is Vladimir Grebenev and I am fullstack python developer. My nickname Veneberg81 - this is an anagram of my last name and year of birth.</p>
   
   
 ### Socials:
