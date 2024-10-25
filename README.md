@@ -8,10 +8,12 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Veneberg81)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/grebenevvv)
-[![headhunter](https://img.shields.io/badge/-headhunter-090909?style=for-the-badge&logo=HellyHansen&logoColor=d50a23)](https://stavropol.hh.ru/resume/c7fea7acff09e39e6d0039ed1f693567424f6b)
+[![headhunter](https://img.shields.io/badge/-headhunter-090909?style=for-the-badge&logo=HellyHansen&logoColor=d50a23)](https://stavropol.hh.ru/resume/7be576c8ff0c97c8010039ed1f584c714b426e)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd343)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=python&logoColor=ffd343)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=python&logoColor=ffd343)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
