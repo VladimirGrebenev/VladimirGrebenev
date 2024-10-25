@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd343)
-![FastAPI](https://img.shields.io/badge/-Fastapi-090909?style=for-the-badge&logo=fastapi&logoColor=ffd343)
+![FastAPI](https://img.shields.io/badge/-Fastapi-090909?style=for-the-badge&logo=fastapi&logoColor=44B78B)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
