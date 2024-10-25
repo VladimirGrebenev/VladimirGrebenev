@@ -16,6 +16,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
+\n
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=85c6ea)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=A30000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
