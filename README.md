@@ -37,5 +37,5 @@
 ### Top Langs:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGrebenev&hide=css,html,mako,php&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ### Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGrebenev&theme=react)
+[!](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGrebenev&theme=react)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirGrebenev&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
