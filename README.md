@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd343)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=python&logoColor=ffd343)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=ffd343)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=python&logoColor=ffd343)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
