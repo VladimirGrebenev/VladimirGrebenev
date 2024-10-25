@@ -12,11 +12,12 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffd343)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=85c6ea)
-![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=A30000)
+![FastAPI](https://img.shields.io/badge/-Fastapi-090909?style=for-the-badge&logo=fastapi&logoColor=ffd343)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=44B78B)
 ![DjangoREST](https://img.shields.io/badge/-DjangoREST-090909?style=for-the-badge&logo=Django&logoColor=A30000)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=85c6ea)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=A30000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61dafb)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=7da1ff)
