@@ -34,6 +34,3 @@
 ![html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=f60)
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=8ed1fc)
 
-### Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirGrebenev&theme=react)
-
